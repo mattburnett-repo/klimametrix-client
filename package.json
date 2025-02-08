@@ -1,0 +1,11 @@
+{
+  "name": "klimametrix-client",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "start": "vite preview"
+  }
+}
